@@ -5,7 +5,7 @@
 #### Built with React, Redux, JavaScript, API, Redux-thunk, Redux-saga and CSS.
 
 ## Project Screen Shots
-![plot](./)
+![plot](./sreens/screen1)
 
 
 ## Available Scripts
